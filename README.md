@@ -1,0 +1,2 @@
+# Powershell_Finance
+基于PowerShell的股票数据爬虫脚本
